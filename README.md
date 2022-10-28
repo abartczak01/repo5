@@ -31,6 +31,5 @@ print('dobry')
 print('Państwu')
 ```
 
-`print('Hej")`
-
+`print('Hej')`
 
